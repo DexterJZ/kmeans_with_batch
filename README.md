@@ -16,6 +16,6 @@ You also can choose to return cluster centers or centroids (the closest points t
 
 Hope you find this helpful.
 
-Here, we visulize the clustering result of the first data entry as an example.
+Here, we visulize the clustering result of the first data entry as an example (black 'x' denotes the centroids).
 
 ![](assets/fig.png)
