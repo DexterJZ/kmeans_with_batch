@@ -18,4 +18,4 @@ Hope you find this helpful.
 
 Here, we visulize the clustering result of the first data entry as an example.
 
-![](assets/overview.png)
+![](assets/fig.png)
